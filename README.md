@@ -1,6 +1,26 @@
 # Nextra Portfolio
 
+## Start dev server
+
+```
+npm run dev
+```
+
+## Build
+
+```
+npm run build
+```
+
+## Preview build
+
+```
+npm run start
+```
+
 ## Create
+
+Here are the instructions for recreating this project.
 
 ```
 npm init -y
@@ -36,10 +56,4 @@ mkdir content
 
 ```
 touch content/index.mdx
-```
-
-## Start dev server
-
-```
-npm run dev
 ```
